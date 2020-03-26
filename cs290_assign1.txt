@@ -1,0 +1,10 @@
+Peter Wright
+cs290 assignment 1
+March 25, 2020
+
+Server for MySQL:
+http://flip2.engr.oregonstate.edu:3108/
+Github Repository:
+https://github.com/pWr1ght/CS_290
+Github Account:
+https://github.com/pWr1ght/
